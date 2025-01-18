@@ -1,5 +1,7 @@
 # Regresión Lineal
 
+Mirellys Arteta Davila
+
 Este proyecto utiliza **Python** y **Jupyter Notebooks** para implementar y practicar conceptos clave en **regresión lineal**.
 
 Forma parte del módulo **Matemáticas 101** del **Bootcamp de Inteligencia Artificial Full-Stack de KeepCoding**, específicamente dentro de la unidad de **álgebra-cálculo-geometría**.
